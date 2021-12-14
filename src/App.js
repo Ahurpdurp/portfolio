@@ -1,5 +1,4 @@
-import logo from "./logo.svg";
-import "./App.css";
+import "./index.css";
 
 import Typography from "typography";
 import moragaTheme from "typography-theme-moraga";
@@ -61,7 +60,7 @@ function App() {
           <h2>My Experience:</h2>
           <p>
             You can download a PDF version{" "}
-            <a href={resume} download target="_blank">
+            <a href={resume} download target="_blank" rel="noreferrer">
               here
             </a>
           </p>
