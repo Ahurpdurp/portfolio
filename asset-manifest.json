@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.17d87ec4.chunk.css",
-    "main.js": "/static/js/main.c6cfa640.chunk.js",
-    "main.js.map": "/static/js/main.c6cfa640.chunk.js.map",
+    "main.css": "/static/css/main.df56617d.chunk.css",
+    "main.js": "/static/js/main.5cce4684.chunk.js",
+    "main.js.map": "/static/js/main.5cce4684.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.26096b02.js",
     "runtime-main.js.map": "/static/js/runtime-main.26096b02.js.map",
     "static/js/2.9fd3068c.chunk.js": "/static/js/2.9fd3068c.chunk.js",
     "static/js/2.9fd3068c.chunk.js.map": "/static/js/2.9fd3068c.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.17d87ec4.chunk.css.map": "/static/css/main.17d87ec4.chunk.css.map",
+    "static/css/main.df56617d.chunk.css.map": "/static/css/main.df56617d.chunk.css.map",
     "static/js/2.9fd3068c.chunk.js.LICENSE.txt": "/static/js/2.9fd3068c.chunk.js.LICENSE.txt",
     "static/media/Paul_Wu_Resume.dcbd7b9b.pdf": "/static/media/Paul_Wu_Resume.dcbd7b9b.pdf",
     "static/media/cat1.60940eee.jpg": "/static/media/cat1.60940eee.jpg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.26096b02.js",
     "static/js/2.9fd3068c.chunk.js",
-    "static/css/main.17d87ec4.chunk.css",
-    "static/js/main.c6cfa640.chunk.js"
+    "static/css/main.df56617d.chunk.css",
+    "static/js/main.5cce4684.chunk.js"
   ]
 }
