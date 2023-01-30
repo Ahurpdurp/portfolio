@@ -18,6 +18,7 @@ const skills = [
   "Node.js",
   "React",
   "Javascript",
+  "Vue",
   "HTML, CSS, jQuery",
   "C# / .NET / .NET Core",
   "Python / Django",
