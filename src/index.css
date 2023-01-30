@@ -23,3 +23,33 @@ body {
 .skill-component {
   pointer-events: none;
 }
+
+.skills {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.skills > div {
+  margin: 10px;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+@media only screen and (max-width: 800px) {
+  ul {
+    list-style-type: circle;
+    align-items: flex-start;
+    padding-left: 30px !important;
+  }
+}
+
+h2 {
+  text-align: center;
+  font-weight: 400 !important;
+}

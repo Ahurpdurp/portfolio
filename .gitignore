@@ -23,4 +23,6 @@ chrome-user-data
 .vscode
 *.swp
 *.swo
+static
+public
  
